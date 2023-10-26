@@ -1,0 +1,21 @@
+.botao:hover {
+    background-color:rgb(242, 255, 1);
+}
+    
+body {
+        font-family: 'Helvetica', sans-serif;
+    background-image: url(/images/produtosjpg.jpg);
+}
+.texto {
+color: rgb(255, 255, 255);
+   text-align: center;
+   font-family: Copperplate, Copperplate Gothic Light, fantasy;
+}
+
+.box  {
+    background-color: rgb(255, 255, 255);
+    display:flex; 
+   text-align: center;
+   font-family: Copperplate, Copperplate Gothic Light, fantasy;
+
+}

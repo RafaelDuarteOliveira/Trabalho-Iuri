@@ -1,0 +1,70 @@
+.botao:hover {
+   background-color:rgb(36, 163, 38);
+}
+   
+
+body {
+   background-image: url(/images/oi.jpg);
+   background-size: 100%;
+}
+
+.box {
+   width: 650px;
+   height: 300px;
+   padding: 10px;
+   margin: 2px;
+   margin-left: 23%;
+   box-sizing: border-box;
+   text-align: center;
+ }
+
+
+figcaption{
+   background-color: #222;
+   color: #fff;
+   font: italic smaller sans-serif;
+   text-align: center;
+}
+
+.varinhas{
+   text-align: center;
+   width: 150px;
+   height: 100px;
+   background-color:rgb(0, 0, 0);
+   margin-left: 10px;
+   background-color: #247b1d;
+   
+}
+.Raros{
+   text-align: center;
+   width: 100px;
+   height: 100px;
+   background-color:rgb(0, 0, 0);
+   margin-left: 10px;
+   background-color:yellow
+}
+
+.animais{
+   text-align: center;
+   width: 100px;
+   height: 100px;
+   background-color:rgb(0, 0, 0);
+   margin-left: 10px;
+   background-color:blue
+}
+
+
+.Nomesite {
+   color: rgb(255, 255, 255);
+   text-align: center;
+   font-family: Copperplate, Copperplate Gothic Light, fantasy;
+}
+
+.vassouras{
+   text-align: center;
+   width: 100px;
+   height: 100px;
+   background-color:rgb(0, 0, 0);
+   margin-left: 10px;
+   background-color: #831d1c;
+}
